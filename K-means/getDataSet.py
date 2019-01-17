@@ -8,3 +8,5 @@ f = open('k_means_dataSet.txt','w+')
 for i in range(100):
     f.write(str(round(random.uniform(0,20),2)) + '\t' +str(round(random.uniform(0,20))) + '\n')
     f.write(str(round(random.uniform(20,40),2)) + '\t' +str(round(random.uniform(20,40))) + '\n')
+
+#测试git是否能用
