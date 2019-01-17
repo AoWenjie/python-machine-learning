@@ -10,3 +10,4 @@ for i in range(100):
     f.write(str(round(random.uniform(20,40),2)) + '\t' +str(round(random.uniform(20,40))) + '\n')
 
 #测试git是否能用
+#测试分支
